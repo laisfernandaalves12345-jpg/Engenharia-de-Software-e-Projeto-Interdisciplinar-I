@@ -1,5 +1,11 @@
-### Atualização dia: 05/01/2026
+####  Atualização dia: 05/01/2026
 
+Nessa data foi decidido a divisão de tarefas do grupo, sendo:
+- Carla e Ícaro responsáveis pelo código do Software.
+- Mariane e Laís responsáveis pela documentação do projeto.
+- Mateus e Angelica responsáveis pelo design gráfico do sistema.
+
+- Também foi criado o GitHub que ira armazenar o sistema.
 ---
 
 ### Atualização dia: 07/01/2026
